@@ -12,6 +12,17 @@
 
 ## Projetos de destaque
 
+<a href="https://github.com/Mauricio-MdS/estacionamento-crud"> <h3> CRUD de estacionamento</h3></a>
+
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/></div>
+
+Cadastro de veículos em um estacionamento com Typescript
+
+<a href="https://github.com/Mauricio-MdS/estacionamento-crud"><img src="./assets/images/estacionamento-crud.jpg" alt="Demonstração CRUD estacionamento"></a>
+
+<br/>
+
+
 <a href="https://github.com/Mauricio-MdS/instagram-login"> <h3> Instagram Login Clone</h3></a>
 
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/></div>
