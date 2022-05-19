@@ -2,18 +2,36 @@
 
 # Olá mundo. Eu sou o Maurício.👋
 ## Sobre mim
-<p>Desenvolvedor de aplicações web. Tenho praticado React, Javascript, Typescript, Node.js, MySql e Java.</p>
+<p>Desenvolvedor de aplicações web. Tenho praticado React, Javascript, Typescript, Node.js e Java.</p>
 <p>Moro em São Paulo/SP. Sou brasileiro e português.</p>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mauricio-mds)
 
 <br/>
 
-## Projetos de destaque
+## Projetos
+
+<a href="https://github.com/Mauricio-MdS/url-shortener-api"> <h3> Encurtador de URL</h3></a>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width=30px/>             
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=30px/>             
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/>
+</div>
+
+API REST.
+* Endpoint POST recebe uma URL. Cria um hash e armazena a URL e o hash em um banco de dados.
+* Endpoint GET recebe o hash. Busca o hash no banco de dados e redireciona para a URL original.
+
+<a href="https://github.com/Mauricio-MdS/url-shortener-api"><img src="./assets/images/encurtador.jpg" alt="Demonstração do encurtador de URL"></a>
+
+<br/>
 
 <a href="https://github.com/Mauricio-MdS/estacionamento-crud"> <h3> Cadastro de estacionamento</h3></a>
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width=30px/></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/></div>
 
 Cadastro de veículos em um estacionamento com Typescript
 
