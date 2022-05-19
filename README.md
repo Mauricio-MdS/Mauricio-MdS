@@ -29,9 +29,29 @@ API REST.
 
 <br/>
 
+<a href="https://github.com/Mauricio-MdS/tic-tac-toe"> <h3> Jogo da Velha </h3></a>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=30px/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/>
+</div>
+
+Jogo da velha em React
+
+<a href="https://github.com/Mauricio-MdS/tic-tac-toe"><img src="./assets/images/tic-tac-toe.jpg" alt="Demonstração do jogo da velha"></a>
+
+<br/>
+
 <a href="https://github.com/Mauricio-MdS/estacionamento-crud"> <h3> Cadastro de estacionamento</h3></a>
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/></div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/>
+</div>
 
 Cadastro de veículos em um estacionamento com Typescript
 
