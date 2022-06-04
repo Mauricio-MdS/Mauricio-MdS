@@ -25,4 +25,4 @@ Java, Spring (Basic), REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, Postg
 
 REST API URL shortener written in Nodejs/Typescript. It has data persistence using MongoDB (NoSQL database).
 
-<a href="https://github.com/Mauricio-MdS/url-shortener-api"><img src="./assets/images/encurtador.jpg" alt="Demonstração do encurtador de URL"></a>
+<a href="https://github.com/Mauricio-MdS/url-shortener-api"><img src="./assets/images/encurtador.jpg" alt=""></a>
