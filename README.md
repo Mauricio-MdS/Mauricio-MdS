@@ -8,7 +8,7 @@
 
 ## Tech skills
 
-Java, Spring (Basic), REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Git, Github, Linux, Nodejs, Javascript, Typescript, Express, React, HTML, CSS
+Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Git, Github, Linux, Nodejs, Javascript, Typescript, Express, React, HTML, CSS, Bootstrap
 
 
 ## Projects
