@@ -13,6 +13,17 @@ Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), 
 
 ## Projects
 
+<a href="https://github.com/Mauricio-MdS/imdb-top-movies"> <h3> IMDB Top Movies</h3></a>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=30px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width=30px/>  
+</div>
+
+Searcher for the 250 top movies on IMDB.
+
+<br>
+
 <a href="https://github.com/Mauricio-MdS/url-shortener-api"> <h3> URL Shortener</h3></a>
 
 <div>
