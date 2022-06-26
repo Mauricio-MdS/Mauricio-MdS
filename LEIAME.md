@@ -1,19 +1,19 @@
-# Hello World, I'm Mauricio.👋
+# Olá mundo, eu sou o Mauricio.👋
 <br>
-Read in: [Português brasileiro](./LEIAME.md)
+Leia em: [English](./README.md)
 <br/>
-<p>Recently I have been developing my skills in Java and Spring. Check my linkedin:</p>
+<p>Recentemente tenho desenvolvido minhas habilidades em Java e Spring. Veja meu linkedin:</p>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mauricio-mds)
 
 <br/>
 
-## Tech skills
+## Tecnologias
 
 Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Git, Github, Linux, Nodejs, Javascript, Typescript, Express, React, HTML, CSS, Bootstrap
 
 
-## Projects
+## Projetos
 
 <a href="https://github.com/Mauricio-MdS/imdb-top-movies"> <h3> IMDB Top Movies</h3></a>
 
@@ -22,7 +22,7 @@ Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width=30px/>  
 </div>
 
-Searcher for the 250 top movies on IMDB.
+Buscador dos 250 melhores filmes no IMDB.
 
 <br>
 
@@ -36,6 +36,6 @@ Searcher for the 250 top movies on IMDB.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=30px/>
 </div>
 
-REST API URL shortener written in Nodejs/Typescript. It has data persistence using MongoDB (NoSQL database).
+API REST encurtadora de URL escrita em Nodejs/Typescript. Persistência de dados usando MongoDB (NoSQL).
 
 <a href="https://github.com/Mauricio-MdS/url-shortener-api"><img src="./assets/images/encurtador.jpg" alt=""></a>
