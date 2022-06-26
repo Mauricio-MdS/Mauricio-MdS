@@ -1,7 +1,7 @@
 # Olá mundo, eu sou o Mauricio.👋
-<br>
-Leia em: [English](./README.md)
-<br/>
+
+[Read in English](./README.md)
+
 <p>Recentemente tenho desenvolvido minhas habilidades em Java e Spring. Veja meu linkedin:</p>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mauricio-mds)
