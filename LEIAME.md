@@ -24,6 +24,8 @@ Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), 
 
 Buscador dos 250 melhores filmes no IMDB.
 
+<a href="https://github.com/Mauricio-MdS/imdb-top-movies"><img src="./assets/images/imdb-top-movies.png" alt=""></a>
+
 <br>
 
 <a href="https://github.com/Mauricio-MdS/url-shortener-api"> <h3> URL Shortener</h3></a>
