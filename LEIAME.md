@@ -21,11 +21,10 @@ Java, Spring, REST APIs, HTTP, JUnit, Unit Tests, TDD, SQL (MySQL, PostgreSQL), 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=30px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width=30px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=30px/>
 </div>
 
-Buscador dos 250 melhores filmes no IMDB.
+Começou como um buscador dos 250 melhores filmes no IMDB. Porém, usando polimorfismo, cresceu como um consumidor genérico de APIs de conteúdo. Está consumindo as APIs do IMDB e da Marvel.
 
 <a href="https://github.com/Mauricio-MdS/imdb-top-movies"><img src="./assets/images/imdb-top-movies.png" alt=""></a>
 
