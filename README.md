@@ -1,6 +1,6 @@
 # Hello World, I'm Mauricio.👋
 
-I am a software developer passionate about creating innovative and robust solutions. With working experience in Java and JavaScript, I work for a large multinational company, where I am assigned to Brazil’s largest insurance company.
+As a Full Stack Developer with 2 years of experience, I specialize in backend development. My background extends beyond software development—I’ve spent over a decade working in finance and banking. Leveraging this expertise, I contributed significantly as a software developer at Brazil’s largest insurance company.
 
 Back-End Development Experience:
 
@@ -27,4 +27,6 @@ In addition:
 
 - Fluent in English (C2 proficiency).
 - AWS Certified Cloud Practitioner.
-- Dual citizenship: Brazilian and Portuguese. 🌎🇧🇷🇵🇹
+- Agile Methodology: Kanban, dailies, JIRA.
+- Computer Science concepts: Data Structures, Algorithm Design, Clean Code
+- Dual citizenship: Brazilian and Portuguese.
